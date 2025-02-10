@@ -1,0 +1,7 @@
+id = "inline_color_previews"
+name = "Inline Color Previews for RGB/HEX colors"
+version = "0.0.1"
+schema_version = 1
+authors = ["Erik Eros <erikeros.ev@gmail.com>"]
+description = "My cool extension"
+repository = "https://github.com/your-name/my-zed-extension"
